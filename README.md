@@ -74,7 +74,8 @@ $ns run
 ```
  
 # OUTPUT
-<img width="419" height="224" alt="image" src="https://github.com/user-attachments/assets/c045d9e3-42cb-4cac-82e3-9ca86e543a49" />
+![WhatsApp Image 2025-11-16 at 20 44 51_1ef17e31](https://github.com/user-attachments/assets/17d8bb63-fbd0-484a-aa29-d4b2f7b288d4)
+
 
 # RESULT
 Thus the Bus Topology using NS2 software is created and monitored successfully.
